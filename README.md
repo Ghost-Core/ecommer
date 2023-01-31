@@ -4,9 +4,7 @@
 
 Ecommer is an ecommerce application built to provide an easy and seamless shopping experience. With a fully responsive design and integration with Stripe payment, the app aims to make online shopping hassle-free for both users and businesses.
 
-you can find demo [here](#)
-
-> :warning: **currently the checkout system is not complete**
+> :warning: **The checkout system has few bugs after the recent update of the dependencies**
 
 ## Features
 
